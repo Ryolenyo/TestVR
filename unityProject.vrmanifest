@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.testv02.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\nm\\Documents\\GitHub\\TestVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "TestV02 [Testing]"
+        }
+      }
+    }
+  ]
+}

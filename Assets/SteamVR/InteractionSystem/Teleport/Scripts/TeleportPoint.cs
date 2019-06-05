@@ -292,7 +292,7 @@ namespace Valve.VR.InteractionSystem
 				{
 					case TeleportPointType.MoveToLocation:
 						{
-							moveLocationIcon.gameObject.SetActive( true );
+                     		moveLocationIcon.gameObject.SetActive( true );
 							switchSceneIcon.gameObject.SetActive( false );
 						}
 						break;
